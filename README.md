@@ -1,15 +1,2 @@
-THIS IS A SENTENCE SEMANTIC SIMILARITY CHECKER, WRITTEN IN C++.
-
-
-TO TEST THE PROGRAM ENTER THE MAIN FOLDER AND WRITE make.
-AFTER IT, ENTER build AND RUN ./ss
-
-
-TO USE THE PROGRAM ENTER src/main.cpp FOR EXAMPLE.ENTER src/paws/ AND src/lapos/ FOR MORE INFO.
-
-
-lapos=POS TAGGER
-paws=WORD SEMANTIC RELATION
-
-
-IN EACH FOLDER THERE WILL BE A README FILE FOR MORE INFO
+# Sentence Semantic Similarity Chechker
+This is a sentence semantic similarity messurement tool, written in C++.
